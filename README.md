@@ -5,7 +5,7 @@
 - 👀 I’m interested in Data Science and Data Analytics.
 - 🌱 I’m currently learning SQL,Power BI,python & Machine learning.
 - 💞️ I’m looking to collaborate on Data Analytics project.
-- 📫 How to reach me LinkedIn:- https://www.linkedin.com/in/hari-haran-7692a0170
+- 📫 How to reach me LinkedIn:- www.linkedin.com/in/hariharan-kp
 
 <!---
 Hariram06/Hariram06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
